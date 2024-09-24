@@ -57,3 +57,15 @@ img
     text-align: center;
 }
 
+#company_payoff
+{
+    clear: both;
+    padding-top: 2em;
+    padding-bottom: 2em;
+}
+
+#company_payoff > h1, #company_payoff > h2
+{
+    text-align: center;
+    text-transform: uppercase;
+}
