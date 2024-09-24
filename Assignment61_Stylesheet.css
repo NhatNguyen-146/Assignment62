@@ -1,0 +1,36 @@
+* 
+{
+    margin: 0;
+}
+
+#headerTop
+{
+    background-color: rgb(230, 230, 230);
+    width: 1000px;
+}
+
+#titleSite
+{
+    float: left;
+    background-color: grey;
+    margin: auto;
+    padding-left: 30px;
+    padding-right: 30px;
+}
+
+#introduction
+{
+    margin: 20px;
+    padding: 20px;
+    background-color: #a6a4a4;
+    font-size: 15px;
+}
+
+.linkNav 
+{
+    float: left;
+    margin: 10px;
+    padding: 10px;
+    background-color: antiquewhite;
+}
+
